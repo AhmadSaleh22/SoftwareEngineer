@@ -290,7 +290,7 @@ Resources:
   - [ ] Lambda
   - [ ] CloudWatch
   - [ ] AWS Security Best Practices
-- [ ] Azure Services (Common in Swedish enterprises)
+- [ ] Azure Services
   - [ ] Azure Kubernetes Service
   - [ ] Azure Functions
   - [ ] Azure Monitor
@@ -409,7 +409,6 @@ Resources & Learning Materials:
 - Books:
   - "Drive" by Daniel Pink
   - "The Culture Map" by Erin Meyer
-  - "Swedish Management" by Annika Zika-Viktorsson
   - "Stakeholder Theory" by R. Edward Freeman
 
 - Online Courses:
