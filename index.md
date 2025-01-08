@@ -319,10 +319,133 @@ Resources:
 
 ### 7. Soft Skills & Enterprise Collaboration
 - [ ] Agile in Enterprise Context
+  - [ ] Scaled Agile Framework (SAFe)
+    - SAFe Principles
+    - Program Increment Planning
+    - Release Trains
+    - Portfolio Management
+  - [ ] Enterprise Scrum
+    - Multiple Team Coordination
+    - Dependencies Management
+    - Enterprise Backlog Management
+  - [ ] Agile Governance
+    - Risk Management
+    - Compliance in Agile
+    - Quality Gates
+    - Audit Requirements
+
 - [ ] Technical Documentation
+  - [ ] Documentation Strategy
+    - Documentation as Code
+    - Version Control for Docs
+    - Automated Documentation
+  - [ ] Enterprise Documentation Standards
+    - Architecture Decision Records (ADRs)
+    - API Documentation
+    - System Design Documents
+    - Runbooks & Playbooks
+  - [ ] Tools & Platforms
+    - Confluence
+    - SharePoint
+    - Markdown/AsciiDoc
+    - Swagger/OpenAPI
+  - [ ] Documentation Best Practices
+    - Writing for Different Audiences
+    - Maintaining Documentation
+    - Review Processes
+    - Documentation Templates
+
 - [ ] Cross-cultural Communication
-- [ ] Swedish Business Culture
+  - [ ] Global Team Collaboration
+    - Virtual Team Management
+    - Time Zone Considerations
+    - Cultural Sensitivity
+  - [ ] Communication Patterns
+    - Async vs Sync Communication
+    - Written Communication Skills
+    - Presentation Skills
+  - [ ] Cultural Intelligence
+    - Different Work Styles
+    - Cultural Frameworks
+    - Building Trust Across Cultures
+
+- [ ] Business Culture
+  - [ ] Work-Life Balance
+    - Flexible Working Hours
+    - Vacation Policies
+    - Parental Leave
+  - [ ] Leadership Style
+    - Consensus Decision Making (Lagom)
+    - Flat Hierarchies
+    - Fika Culture
+  - [ ] Business Etiquette
+    - Meeting Protocols
+    - Email Communication
+    - Professional Relationships
+  - [ ] Work Values
+    - Equality and Fairness
+    - Environmental Consciousness
+    - Innovation Mindset
+
 - [ ] Enterprise Stakeholder Management
+  - [ ] Stakeholder Analysis
+    - Identification
+    - Mapping
+    - Influence Assessment
+  - [ ] Communication Strategy
+    - Stakeholder Communication Plan
+    - Reporting Mechanisms
+    - Feedback Loops
+  - [ ] Relationship Building
+    - Executive Communication
+    - Cross-department Collaboration
+    - Vendor Management
+  - [ ] Change Management
+    - Impact Analysis
+    - Change Communication
+    - Resistance Management
+
+Resources & Learning Materials:
+- Books:
+  - "Drive" by Daniel Pink
+  - "The Culture Map" by Erin Meyer
+  - "Swedish Management" by Annika Zika-Viktorsson
+  - "Stakeholder Theory" by R. Edward Freeman
+
+- Online Courses:
+  - SAFe Certification
+  - Technical Writing Fundamentals
+  - Cross-Cultural Communication (Coursera)
+  - Language & Culture
+
+- Tools:
+  - Confluence
+  - JIRA
+  - Miro/Mural for Visual Collaboration
+  - Microsoft Teams
+
+Practical Applications:
+1. Documentation Project
+   - Create technical documentation strategy
+   - Implement documentation as code
+   - Set up review processes
+
+2. Cross-cultural Workshop
+   - Organize virtual team building
+   - Create communication guidelines
+   - Develop cultural awareness training
+
+3. Stakeholder Management Plan
+   - Develop stakeholder matrix
+   - Create communication templates
+   - Establish feedback mechanisms
+
+Success Metrics:
+- Documentation usage and feedback
+- Team collaboration effectiveness
+- Stakeholder satisfaction surveys
+- Cultural integration measures
+- Communication efficiency metrics
 
 ## Additional Focus Areas
 
